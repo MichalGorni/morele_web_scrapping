@@ -2,7 +2,7 @@ Morele.net Smartphone Offers Scrapping Tool
 
 Purpose of the tool: 
 Scrapping smartphone offers from Morele.net online shop, 
-allows to store historic prices and analyse them over time
+allows to store historic prices and analyse them over time.
 
 Tool Overview:
 1. Flow
@@ -12,7 +12,7 @@ Tool Overview:
 2. Modules
     2.1 web_scrapper - contains object "MoreleScraper" that scrapps data from website and transforms it into dictionary
     2.2 data_transformation - contains object "DataTransformation" that transforms given dictionary into dataframe, 
-        then performs data cleaning and normalization, loads data into Excel file and formats workbook
-    2.3 main - gathers functions of above modules into one, executable funtion
+        then performs data cleaning and normalization, loads data into Excel file and formats workbook.
+    2.3 main - gathers functions of above modules into one, executable funtion.
 
 
